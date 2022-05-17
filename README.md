@@ -1,12 +1,12 @@
 # Subscan Plugin
 
 
-The subscan plugin is an interface lib to [subscan-essentials](https://github.com/itering/subscan-essentials) plugin, and [Gen](https://github.com/itering/subscan-plugin/tree/master/tools) tool can automatically generate plugin templates
+The subscan plugin is an interface lib to [subscan-essentials](https://github.com/yspk/subscan-essentials) plugin, and [Gen](https://github.com/yspk/subscan-plugin/tree/master/tools) tool can automatically generate plugin templates
 
 ## Install
 
 ```
-go get github.com/itering/subscan-plugin
+go get github.com/yspk/subscan-plugin
 ```
 
 ## Usage
@@ -26,5 +26,5 @@ GPL-3.0
 
 ## Resource
  
-- [subscan-essentials] https://github.com/itering/subscan-essentials
-- [substrate-api-rpc] https://github.com/itering/substrate-api-rpc
+- [subscan-essentials] https://github.com/yspk/subscan-essentials
+- [substrate-api-rpc] https://github.com/yspk/substrate-api-rpc

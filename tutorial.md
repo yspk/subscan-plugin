@@ -10,7 +10,7 @@ You can write ui conf directly to automatically display the ui.
 ### Install gen tool
 
 ```shell script
-$ go get github.com/itering/subscan-plugin/tools/gen-plugin
+$ go get github.com/yspk/subscan-plugin/tools/gen-plugin
 ```
 
 ### Gen plugin
@@ -35,7 +35,7 @@ The directory structure is as follows:
 4 directories, 5 files
 ```
 
-The logic can refer to https://github.com/itering/subscan-essentials/tree/master/plugins/balance
+The logic can refer to https://github.com/yspk/subscan-essentials/tree/master/plugins/balance
 
 ### Register plugin
 

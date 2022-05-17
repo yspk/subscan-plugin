@@ -1,8 +1,8 @@
 package storage
 
 import (
-	"github.com/itering/substrate-api-rpc/websocket"
 	"github.com/shopspring/decimal"
+	"github.com/yspk/substrate-api-rpc/websocket"
 )
 
 type Dao interface {
